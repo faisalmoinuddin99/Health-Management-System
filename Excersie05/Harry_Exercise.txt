@@ -1,0 +1,8 @@
+Hello! I am Harry
+
+This is my Exercise Log Book:
+
+
+ [2020-02-13 19:31:12.903158]: Push up
+ [2020-02-13 19:38:03.310305]: packs
+ [2020-02-13 19:38:07.236862]: arms

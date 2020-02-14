@@ -1,0 +1,7 @@
+Hello! I am Harry
+
+This is my Exercise Log Book:
+ 
+ 
+ [2020-02-13 19:41:10.409811]: Arms
+ [2020-02-13 19:41:12.362101]: Hands

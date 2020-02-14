@@ -1,0 +1,5 @@
+Hello! I am Harry
+
+This is my Diet Log Book:
+ [2020-02-13 19:21:03.931272]: Burgar
+ [2020-02-13 19:21:09.167814]: pizza
